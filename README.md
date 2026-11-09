@@ -82,6 +82,10 @@ docker compose -f docker-compose.dev.yml up -d --build
 
 访问 `http://localhost:3000`。数据库保存在 Docker volume 中。内置数据库示例密码仅适合本机开发。使用外部数据库的部署参考 [docker-compose.yml](docker-compose.yml) 和 [开发与部署流程](WORKFLOW.md)。
 
+## 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Price%20Comparison/)
+
 ## 联系方式
 
 | QQ 群 | Telegram 群 |
